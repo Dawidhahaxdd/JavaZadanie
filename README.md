@@ -1,1 +1,3 @@
-"# JavaZadanie" 
+Boldare Java zadanie rekrutacyjne.
+
+
